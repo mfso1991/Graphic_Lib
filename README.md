@@ -1,5 +1,5 @@
 # Graphic_Lib
-A rudimentary Glib that can draw pixel (of course) and character of specific (user provided) font.
+A simple graphic library for drawing pixel (of course ... ) and character using user defined font.
 
 ## Keywords:
 open, ioctl, mmap, munmap, select, write, read, nanosleep.
