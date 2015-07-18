@@ -1,9 +1,9 @@
 
 /*
  *	CS1550 - Project 1 _ User Interface  
- *	Author 			    : 		You Zhou
- *	Pitt Email 		  : 		yoz13@pitt.edu
- *	People Soft # 	: 		3729901
+ *	Author 			      : 		  You Zhou
+ *	Pitt Email 		    : 		  yoz13@pitt.edu
+ *	People Soft # 	  : 		  3729901
  */
 
 #include <linux/fb.h>
